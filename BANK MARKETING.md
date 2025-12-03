@@ -1,4 +1,4 @@
-<img src="ASSSSSSMAAAAAAA (1).jpg" style="height:100px;margin-right:120px"/>
+<img src="ASSSSSSMAAAAAAA (1).jpg" style="height:200px;margin-right:150px"/>
 # AL BARJ ASMA 
 # BANK MARKETING
 
@@ -439,9 +439,9 @@ print(f"Meilleur AUC Test: {results[best_model_name]['test_auc']:.4f}")
 print("\nCode exécuté avec succès!")
 ```
 <img src="classe cible.png" style="height:100px;margin-right:120px"/>
-<img src="distribution de caracteristique bank.png" style="height:100px;margin-right:120px"/>
-<img src="distribution de variable bank.png" style="height:100px;margin-right:120px"/>
-<img src="matrice de correlation bank.png" style="height:100px;margin-right:120px"/>
+<img src="distribution de caracteristique bank.png" style="height:300px;margin-right:200px"/>
+<img src="distribution de variable bank.png" style="height:300px;margin-right:200px"/>
+<img src="matrice de correlation bank.png" style="height:300px;margin-right:200px"/>
 ## Interprétation des Graphiques
 
 ### Distribution de la Variable Cible
@@ -472,28 +472,4 @@ Les clients «yes» affichent des **durées d'appel nettement plus longues** (m�
 L'analyse révèle que le **succès des campagnes** dépend principalement de la **durée d'appel prolongée**, de la **récence des contacts** (pdays bas), des **profils métiers favorisés** (admin, retired, students) et d'un **contexte économique stable** (faible Euribor). Les mois d'avril/septembre/octobre et contacts mobiles boostent les conversions. Le **meilleur modèle (GradientBoosting, AUC=0.92)** permet une segmentation ciblée, potentiellement doublant le ROI en priorisant 20% des clients les plus prometteurs. Recommandations : former les téléconseillers à allonger les appels qualifiés et cibler saisonnièrement.[web:1][web:7]
 ```
 
-**Copiez ce code Markdown complet ci-dessus et collez-le dans n'importe quel éditeur Markdown (Notion, Obsidian, GitHub, VS Code, etc.) pour un rendu parfait !**[^1][^2]
-<span style="display:none">[^10][^3][^4][^5][^6][^7][^8][^9]</span>
-
-<div align="center">⁂</div>
-
-[^1]: http://regnault.perso.math.cnrs.fr/R_tuto/urcadown/r%C3%A9daction-dun-compte-rendu-en-utlisant-le-template-cr-urca.html
-
-[^2]: https://tutorials.migale.inrae.fr/posts/share-your-work/
-
-[^3]: https://larmarange.github.io/analyse-R/rmarkdown-les-rapports-automatises.html
-
-[^4]: https://epirhandbook.com/fr/new_pages/rmarkdown.fr.html
-
-[^5]: https://perso.univ-lyon1.fr/marc.buffat/COURS/BOOK_PYTHON_SCIENTIFIQUE_HTML/MGC2028L/cours/CRmarkdown.html
-
-[^6]: https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/
-
-[^7]: https://support.zendesk.com/hc/fr/articles/4408846544922-Formatage-de-texte-avec-Markdown
-
-[^8]: https://delladata.fr/tutoriel-personnalisez-word-rmarkdown/
-
-[^9]: https://ropensci.org/fr/blog/2025/09/18/markdown-programmatique/
-
-[^10]: https://www.conseils-redaction-web.fr/guide-du-markdown-pour-prompter-ia
-
+## AL BARJ ASMA
