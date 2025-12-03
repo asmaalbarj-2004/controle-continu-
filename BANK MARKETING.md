@@ -3,9 +3,9 @@
 # BANK MARKETING
 
 
-# Compte Rendu d'Analyse - Dataset BANK MARKETING
+## Compte Rendu d'Analyse - Dataset BANK MARKETING: MARKETING 
 
-## Introduction
+### Introduction
 
 Le dataset **BANK MARKETING** décrit les campagnes de marketing direct menées par une banque portugaise via des appels téléphoniques pour promouvoir des dépôts à terme. Il contient des informations détaillées sur **41 188 clients** (après nettoyage), incluant leurs caractéristiques démographiques (âge, métier, situation familiale), financières (prêts, défauts de paiement), contextuelles de campagne (durée d'appel, nombre de contacts, mois) et macroéconomiques (taux d'intérêt Euribor, emploi). L'objectif principal est de prédire la variable cible `y` («yes» si le client souscrit, «no» sinon), avec un fort déséquilibre (88.5% «no», 11.5% «yes»). Cette analyse complète (nettoyage, EDA, feature engineering, modélisation) vise à identifier les facteurs de succès pour optimiser les futures campagnes.[web:1][web:7]
 ## CODE EN PYTHON 
